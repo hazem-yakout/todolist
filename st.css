@@ -53,6 +53,7 @@ body {
   background-image: url("./todo.jpg");
   background-size: cover;
   background-position: top;
+  back-ground-attachment:cover;
 }
 
 #container {
